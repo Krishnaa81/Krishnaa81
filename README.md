@@ -1,22 +1,16 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=210&section=header&text=Hey!%20I%20am%20Krishna%20Reddy,&fontSize=34&fontColor=ffffff&fontAlign=18&fontAlignY=42&desc=Fullstack%20developer&descSize=18&descAlign=18&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=Hey!%20I%20am%20Krishnareddy,&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer&descSize=20&descAlignY=68"/>
 </p>
 
-<p align="right">
-<img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to&logoColor=white"/>
+<h1 align="center">Hi 👋, I'm Krishna Reddy</h1>
+
+<h3 align="center">
+Full Stack Developer | React Developer | AI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Developer;AI+%26+ML+Enthusiast;Building+Real+Time+Projects"/>
 </p>
-
----
-
-<div align="center">
-
-# Hi 👋, I'm Krishna Reddy
-
-### Full Stack Developer | React Developer | AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;AI+%26+ML+Enthusiast;Open+Source+Learner;Building+Real+Time+Projects"/>
-
-</div>
 
 ---
 
@@ -42,14 +36,14 @@
 
 - 🎓 Final Year B.Tech CSE Student
 - 🌱 Currently learning React, AI & Full Stack Development
-- 💻 Passionate about building real-world applications
-- 🔥 Interested in Web Development & AI Projects
-- ⚡ Love solving problems and learning new technologies
+- 💻 Passionate about building scalable web applications
+- 🔥 Interested in Full Stack & AI-based Projects
+- ⚡ Strong interest in problem solving and modern technologies
 - 📫 Reach me: **krishnareddy9111@gmail.com**
 
 ---
 
-# 🛠️ Languages and Tools
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -59,17 +53,33 @@
 
 ---
 
+# 📌 Featured Projects
+
+## 🍴 SAM - Share A Meal
+Food donation and delivery platform connecting donors, NGOs, and users to reduce food waste.
+
+## 🏥 SMARTCLINIC - AI Healthcare Platform
+Healthcare management system with appointment booking and patient record management.
+
+## 🧠 Brain Tumor Detection
+Deep learning project using Swin Transformer for brain tumor classification.
+
+## 📚 Library Management System
+Java-based system for managing books and student records.
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Krishnaa81&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Krishnaa81&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa81&layout=compact&theme=tokyonight&hide_border=true"/>
 
