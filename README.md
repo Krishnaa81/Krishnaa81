@@ -1,15 +1,15 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=Hey!%20I%20am%20Krishnareddy,&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer&descSize=20&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=Hey!%20I%20am%20Krishna%20Reddy,&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer&descSize=20&descAlignY=68"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Krishna Reddy</h1>
 
 <h3 align="center">
-Full Stack Developer | React Developer | AI Enthusiast
+Full Stack Developer | Java Full Stack Learner | AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Developer;AI+%26+ML+Enthusiast;Building+Real+Time+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+Full+Stack+Learner;React+Developer;AI+%26+ML+Enthusiast;Building+Real+Time+Projects"/>
 </p>
 
 ---
@@ -34,11 +34,13 @@ Full Stack Developer | React Developer | AI Enthusiast
 
 # 🚀 About Me
 
-- 🎓 Final Year B.Tech CSE Student
-- 🌱 Currently learning React, AI & Full Stack Development
-- 💻 Passionate about building scalable web applications
-- 🔥 Interested in Full Stack & AI-based Projects
+- 🎓 Completed B.Tech in Computer Science and Engineering
+- 💻 Java Full Stack Developer Trainee at Topstech Institute
+- 🌱 Currently learning React, Spring Boot, AI & Full Stack Development
+- 🔥 Passionate about building scalable and real-world web applications
+- 🤖 Interested in Full Stack, AI and Machine Learning based projects
 - ⚡ Strong interest in problem solving and modern technologies
+- 🚀 Actively improving development and coding skills for software industry
 - 📫 Reach me: **krishnareddy9111@gmail.com**
 
 ---
@@ -47,7 +49,7 @@ Full Stack Developer | React Developer | AI Enthusiast
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,streamlit,flask,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,streamlit,flask,bootstrap,tailwind,spring"/>
 
 </div>
 
