@@ -1,4 +1,4 @@
-```html
+
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=Hey!%20I%20am%20Krishna%20Reddy,&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer&descSize=20&descAlignY=68"/>
 </p>
@@ -117,4 +117,3 @@ Java-based system for managing books and student records.
 ### ✨ Thanks for visiting my profile ✨
 
 </div>
-```
