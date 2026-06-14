@@ -1,3 +1,4 @@
+```md
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=Hey!%20I%20am%20Krishna%20Reddy,&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer&descSize=20&descAlignY=68"/>
 </p>
@@ -36,6 +37,14 @@ A passionate Full Stack Developer from India who loves building products
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -46,18 +55,20 @@ A passionate Full Stack Developer from India who loves building products
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Spring Boot, React & AI**
-- 👨‍💻 Java Full Stack Developer Trainee at **Topstech Institute**
-- 💡 Passionate about building scalable web applications
-- 🤖 Interested in AI & Machine Learning projects
-- ⚡ Strong interest in problem solving and modern technologies
-- 📫 Reach me: **krishnareddy9111@gmail.com**
+- 🎓 Computer Science Engineering graduate with strong interest in Full Stack Development and Software Engineering  
+- 💻 Currently pursuing Java Full Stack Development training at Topstech Institute  
+- 🌱 Skilled in building responsive and scalable web applications using Java, React, Spring Boot, and MySQL  
+- 🤖 Enthusiastic about AI, Machine Learning, and real-world problem-solving projects  
+- 🚀 Passionate about developing impactful applications with clean UI and efficient backend systems  
+- 👨‍💻 Regularly practicing coding and problem-solving on platforms like CodeChef, LeetCode, and GeeksforGeeks  
+- 📌 Interested in opportunities related to Full Stack Development and Software Engineering  
+- 📫 Reach me at: **krishnareddy9111@gmail.com**
 
 </td>
 
 <td width="45%">
 
-<img align="right" alt="Coding" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RmbmM0ZXJ0OHBvY2p0N2V4YzJqNjI5eW11a2s3d2l6ZWRuNm5kMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/rahul-jha98/README/main/techstack.gif">
 
 </td>
 </tr>
@@ -112,3 +123,4 @@ Java-based system for managing books and student records.
 ### ✨ Thanks for visiting my profile ✨
 
 </div>
+```
