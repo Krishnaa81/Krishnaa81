@@ -5,38 +5,27 @@
 <h1 align="center">Hi 👋, I'm Krishna Reddy</h1>
 
 <h3 align="center">
-Full Stack Developer | Java Full Stack Learner | AI Enthusiast
+A passionate Full Stack Developer from India who loves building products
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+Full+Stack+Learner;React+Developer;AI+%26+ML+Enthusiast;Building+Real+Time+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;React+Developer;AI+%26+ML+Enthusiast;Building+Real+Time+Projects;Problem+Solver"/>
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Krishnaa81&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 🚀 About Me
-
-- 🎓 Completed B.Tech in Computer Science and Engineering
-- 💻 Java Full Stack Developer Trainee at Topstech Institute
-- 🌱 Currently learning React, Spring Boot, AI & Full Stack Development
-- 🔥 Passionate about building scalable and real-world web applications
-- 🤖 Interested in Full Stack, AI and Machine Learning based projects
-- ⚡ Strong interest in problem solving and modern technologies
-- 👨‍💻 Active coding practice on CodeChef and coding platforms
-- 📫 Reach me: **krishnareddy9111@gmail.com**
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
+<div align="left">
 
 <a href="https://linkedin.com/in/krishnareddybattula">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-blond-eta-1rh341qt68.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="mailto:krishnareddy9111@gmail.com">
@@ -51,31 +40,51 @@ Full Stack Developer | Java Full Stack Learner | AI Enthusiast
 
 ---
 
-# 🛠️ Technical Skills
+<table>
+<tr>
+<td width="55%">
 
-- **Programming Languages:** Java, JavaScript, Python (Basics)
-- **Frameworks:** React.js, Spring Boot, Streamlit
-- **Web Technologies:** HTML5, Tailwind CSS
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, Google Colab
-- **Cloud & DevOps:** Docker, AWS (Basics)
-- **Core Skill:** REST API Development
-- **Soft Skills:** Communication, Collaboration, Problem Solving
+## 🚀 About Me
+
+- 🌱 Currently learning **Spring Boot, React & AI**
+- 👨‍💻 Java Full Stack Developer Trainee at **Topstech Institute**
+- 💡 Passionate about building scalable web applications
+- 🤖 Interested in AI & Machine Learning projects
+- ⚡ Strong interest in problem solving and modern technologies
+- 📫 Reach me: **krishnareddy9111@gmail.com**
+
+</td>
+
+<td width="45%">
+
+<img align="right" alt="Coding" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RmbmM0ZXJ0OHBvY2p0N2V4YzJqNjI5eW11a2s3d2l6ZWRuNm5kMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,python,react,spring,nodejs,html,css,tailwind,mysql,mongodb,git,github,vscode,docker,aws,streamlit,postman&perline=9"/>
+</p>
 
 ---
 
 # 📌 Featured Projects
 
-## 🍴 SAM - Share A Meal
+### 🍴 SAM - Share A Meal
 Food donation and delivery platform connecting donors, NGOs, and users to reduce food waste.
 
-## 🏥 SMARTCLINIC - AI Healthcare Platform
+### 🏥 SMARTCLINIC - AI Healthcare Platform
 Healthcare management system with appointment booking and patient record management.
 
-## 🧠 Brain Tumor Detection
+### 🧠 Brain Tumor Detection
 Deep learning project using Swin Transformer for brain tumor classification.
 
-## 📚 Library Management System
+### 📚 Library Management System
 Java-based system for managing books and student records.
 
 ---
@@ -93,16 +102,6 @@ Java-based system for managing books and student records.
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa81&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Krishnaa81&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
