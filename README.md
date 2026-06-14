@@ -1,8 +1,8 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=260&section=header&text=Hey!%20I%20am%20Krishna%20Reddy,&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20developer&descSize=22&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=210&section=header&text=Hey!%20I%20am%20Krishna%20Reddy,&fontSize=34&fontColor=ffffff&fontAlign=18&fontAlignY=42&desc=Fullstack%20developer&descSize=18&descAlign=18&descAlignY=62"/>
 </p>
 
-<p align="center">
+<p align="right">
 <img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </p>
 
@@ -59,22 +59,6 @@
 
 ---
 
-# 📌 Featured Projects
-
-## 🍴 SAM - Share A Meal
-A food donation and delivery platform that connects donors, NGOs, and users to reduce food waste.
-
-## 🏥 SMARTCLINIC - AI Healthcare Platform
-AI-powered healthcare management system with appointment booking and patient record management.
-
-## 🧠 Brain Tumor Detection
-Deep learning project using Swin Transformer for brain tumor classification.
-
-## 📚 Library Management System
-Java-based library management system for handling books and student records.
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -88,26 +72,6 @@ Java-based library management system for handling books and student records.
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa81&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Krishnaa81&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnaa81&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
