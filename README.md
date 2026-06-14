@@ -14,6 +14,21 @@ Full Stack Developer | Java Full Stack Learner | AI Enthusiast
 
 ---
 
+# 🚀 About Me
+
+- 🎓 Completed B.Tech in Computer Science and Engineering
+- 💻 Java Full Stack Developer Trainee at Topstech Institute
+- 🌱 Currently learning React, Spring Boot, AI & Full Stack Development
+- 🔥 Passionate about building scalable and real-world web applications
+- 🤖 Interested in Full Stack, AI and Machine Learning based projects
+- ⚡ Strong interest in problem solving and modern technologies
+- 👨‍💻 Active coding practice on CodeChef and coding platforms
+- 📫 Reach me: **krishnareddy9111@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
 <div align="center">
 
 <a href="https://linkedin.com/in/krishnareddybattula">
@@ -28,30 +43,24 @@ Full Stack Developer | Java Full Stack Learner | AI Enthusiast
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.codechef.com/users/kl_99220041449">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-# 🚀 About Me
+# 🛠️ Technical Skills
 
-- 🎓 Completed B.Tech in Computer Science and Engineering
-- 💻 Java Full Stack Developer Trainee at Topstech Institute
-- 🌱 Currently learning React, Spring Boot, AI & Full Stack Development
-- 🔥 Passionate about building scalable and real-world web applications
-- 🤖 Interested in Full Stack, AI and Machine Learning based projects
-- ⚡ Strong interest in problem solving and modern technologies
-- 🚀 Actively improving development and coding skills for software industry
-- 📫 Reach me: **krishnareddy9111@gmail.com**
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,streamlit,flask,bootstrap,tailwind,spring"/>
-
-</div>
+- **Programming Languages:** Java, JavaScript, Python (Basics)
+- **Frameworks:** React.js, Spring Boot, Streamlit
+- **Web Technologies:** HTML5, Tailwind CSS
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code, Google Colab
+- **Cloud & DevOps:** Docker, AWS (Basics)
+- **Core Skill:** REST API Development
+- **Soft Skills:** Communication, Collaboration, Problem Solving
 
 ---
 
