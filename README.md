@@ -105,17 +105,7 @@ Java + MySQL application for managing books and students.
 
 <p align="center">
 
-<img src="https://ghstats.dev/api/card?username=Krishnaa81&theme=github_dark" />
-
-<br><br>
-
-<img src="https://ghstats.dev/api/languages?username=Krishnaa81&theme=github_dark" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Krishnaa81&theme=github-dark&hide_border=true"/>
+<img src="https://ghstats.dev/api/card?username=Krishnaa81&theme=github_dark" width="650"/>
 
 </p>
 
