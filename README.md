@@ -105,9 +105,11 @@ Java + MySQL application for managing books and students.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishnaa81&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://ghstats.dev/api/card?username=Krishnaa81&theme=github_dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa81&layout=compact&theme=github_dark&hide_border=true"/>
+<br><br>
+
+<img src="https://ghstats.dev/api/languages?username=Krishnaa81&theme=github_dark" />
 
 </p>
 
