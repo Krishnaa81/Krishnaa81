@@ -1,25 +1,26 @@
-
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=Hey!%20I%20am%20Krishna%20Reddy,&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer&descSize=20&descAlignY=68"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hey!%20I'm%20Krishna%20Reddy%20👋&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignY=65"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Krishna Reddy</h1>
 
 <h3 align="center">
-A passionate Full Stack Developer from India who loves building products
+Java Full Stack Developer | React Developer | AI & ML Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;React+Developer;AI+%26+ML+Enthusiast;Building+Real+Time+Projects;Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&color=36BCF7&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Krishnaa81&label=Profile%20Views&color=0e75b6&style=flat"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Krishnaa81&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<div align="left">
+# 🌟 Connect With Me
+
+<p align="center">
 
 <a href="https://linkedin.com/in/krishnareddybattula">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,26 +34,26 @@ A passionate Full Stack Developer from India who loves building products
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Engineering graduate with strong interest in Full Stack Development and Software Engineering  
-- 💻 Currently pursuing Java Full Stack Development training at Topstech Institute  
-- 🌱 Skilled in building responsive and scalable web applications using Java, React, Spring Boot, and MySQL  
-- 🤖 Enthusiastic about AI, Machine Learning, and real-world problem-solving projects  
-- 🚀 Passionate about developing impactful applications with clean UI and efficient backend systems  
-- 👨‍💻 Regularly practicing coding and problem-solving  
-- 📌 Interested in opportunities related to Full Stack Development and Software Engineering  
-- 📫 Reach me at: **krishnareddy9111@gmail.com**
+- 🎓 Computer Science Engineering Graduate
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning Spring Boot, React and Advanced Java
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🚀 Love building real-world web applications
+- 👨‍💻 Practicing DSA and Problem Solving
+- 📚 Always learning new technologies
+- 📫 Email: **krishnareddy9111@gmail.com**
 
 ---
 
-## 🏆 Coding Profiles
+# 🏆 Coding Profiles
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.codechef.com/users/kl_99220041449">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
@@ -70,50 +71,64 @@ A passionate Full Stack Developer from India who loves building products
 
 ---
 
-# 🛠️ Languages and Tools
+# 🛠 Languages & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,python,react,spring,nodejs,html,css,tailwind,mysql,mongodb,git,github,vscode,docker,aws,streamlit,postman&perline=9"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,nodejs,mysql,mongodb,python,git,github,vscode,postman,docker,aws&perline=9"/>
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-### 🍴 SAM - Share A Meal
-Food donation and delivery platform connecting donors, NGOs, and users to reduce food waste.
-
-### 🏥 SMARTCLINIC - AI Healthcare Platform
-Healthcare management system with appointment booking and patient record management.
-
-### 🧠 Brain Tumor Detection
-Deep learning project using Swin Transformer for brain tumor classification.
-
-### 📚 Library Management System
-Java-based system for managing books and student records.
+## 🍴 SAM - Share A Meal
+Food donation and delivery platform connecting donors, NGOs and users.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krishnaa81&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Krishnaa81&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa81&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+## 🏥 SmartClinic
+Healthcare Management System with appointment booking and patient records.
 
 ---
 
-<div align="center">
+## 🧠 Brain Tumor Detection
+Deep Learning based Brain Tumor Classification using Swin Transformer.
 
-### ✨ Thanks for visiting my profile ✨
+---
 
-</div>
+## 📚 Library Management System
+Java + MySQL application for managing books and students.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishnaa81&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa81&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Krishnaa81&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</p>
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile! ✨
+</p>
