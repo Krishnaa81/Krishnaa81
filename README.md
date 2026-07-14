@@ -103,13 +103,13 @@ Java + MySQL application for managing books and students.
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishnaa81&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa81&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
