@@ -145,9 +145,6 @@ Java + MySQL application for managing books and students.
 
 </p>
 
----
-
-
 
 ---
 
