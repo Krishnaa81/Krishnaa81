@@ -101,50 +101,16 @@ Java + MySQL application for managing books and students.
 
 ---
 
-# 📊 GitHub Analytics
-
-<!-- <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishnaa81&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa81&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p> -->
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnaa81&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishnaa81&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa81&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnaa81&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnaa81&theme=tokyonight" />
 </p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnaa81&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishnaa81&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishnaa81&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krishnaa81&theme=tokyonight&utcOffset=5.5"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krishnaa81&theme=tokyonight"/>
-
-</p>
-
 
 ---
 
